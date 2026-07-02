@@ -1,0 +1,11 @@
+﻿producto_id,nombre_producto,categoria,precio_unitario
+1,Laptop Lenovo,Computadoras,14500
+2,Mouse Logitech,Accesorios,350
+3,Teclado Mecánico,Accesorios,1200
+4,Monitor Samsung,Monitores,4200
+5,Impresora HP,Impresión,3100
+6,Disco SSD 1TB,Almacenamiento,1800
+7,Memoria USB 64GB,Almacenamiento,180
+8,Audífonos Sony,Audio,950
+9,Router TP-Link,Redes,750
+10,Webcam Full HD,Accesorios,680
